@@ -1,4 +1,4 @@
-# Smart Traffic Light System Using Ultrasonic Sensors
+# Density based Traffic Light System 
 
 This project implements a smart traffic light system using ultrasonic sensors to dynamically manage traffic signals based on vehicle presence. The system uses LEDs to simulate traffic lights and buttons for manual overrides.
 
